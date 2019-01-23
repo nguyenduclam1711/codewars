@@ -1,3 +1,3 @@
 # This is a repo about resolving some codewars's problem
 
-[1. dir1](https://github.com/nguyenduclam1711/codewars/tree/master/dir1) 
+1. [Remove exclamation marks #8kyu](0001-Remove-exclamation-marks-#8kyu/README.md)
