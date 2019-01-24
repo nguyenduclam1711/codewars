@@ -12,7 +12,7 @@ const comp = (array1, array2) => {
 }
 
 const inputToArray = (string) => {
-    return string.split(",")
+    return string.replace(/\s+/g, '').split(',')
 }
 
 const onChangeHandler1 = () => {
