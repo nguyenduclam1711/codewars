@@ -12,5 +12,3 @@ const rot13 = (message) => {
 const showResult = () => {
     document.getElementById('showResult').innerHTML = rot13(document.getElementById('inputText').value)
 }
-
-export default rot13
