@@ -6,3 +6,4 @@
 4. [Are they the "same"? #6kyu](0004-Are-they-the-same-#6kyu/..)
 5. [Split Strings #6kyu](0005-Split-Strings-#6kyu/)
 6. [Reverse Words #8kyu](0006-Reverse-Words-#8kyu/)
+7. [Find the middle element # 7kyu](0007-Find-the-middle-element-#7kyu/)
