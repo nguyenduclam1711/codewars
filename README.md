@@ -11,4 +11,5 @@
 9. [Does my number look big in this? #6kyu](0009-Does-my-number-look-big-in-this-#6kyu/)
 10. [Persistent Bugger. #6kyu](0010-Persistent-Bugger-#6kyu/)
 11. [Highest Scoring Word #6kyu](0011-Highest-Scoring-Word-#6kyu/) 
-12. [Find the missing letter](0012-Find-the-missing-letter-#6kyu/)
+12. [Find the missing letter #6kyu](0012-Find-the-missing-letter-#6kyu/)
+13. [Array.diff #6kyu](0013-Array.diff-#6kyu/)
