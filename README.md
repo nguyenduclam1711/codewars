@@ -13,3 +13,4 @@
 11. [Highest Scoring Word #6kyu](0011-Highest-Scoring-Word-#6kyu/) 
 12. [Find the missing letter #6kyu](0012-Find-the-missing-letter-#6kyu/)
 13. [Array.diff #6kyu](0013-Array.diff-#6kyu/)
+14. [Remove anchor from URL #7kyu](0014-Remove-anchor-from-URL-#7kyu/)
