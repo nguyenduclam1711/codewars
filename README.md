@@ -15,3 +15,4 @@
 13. [Array.diff #6kyu](0013-Array.diff-#6kyu/)
 14. [Remove anchor from URL #7kyu](0014-Remove-anchor-from-URL-#7kyu/)
 15. [Sort the Gift Code #7kyu](0015-Sort-the-Gift-Code-#7kyu/)
+16. [Sum of Digits/Digital Root](0016-Sum-of-Digits-Digital-Root-#6kyu/)
