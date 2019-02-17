@@ -18,3 +18,4 @@
 16. [Sum of Digits/Digital Root](0016-Sum-of-Digits-Digital-Root-#6kyu/)
 17. [CamelCase Method](0017-CamelCase-Method-#6kyu/)
 18. [Stop gninnipS My sdroW!](0018-Stop-gninnipS-My-sdroW!-#6kyu/)
+19. [Alphabet war](0019-Alphabet-war-#7kyu/)
